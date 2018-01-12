@@ -1,0 +1,28 @@
+Комплект на один станок.
+
+1шт. Модуль питания сетевой 36V, 100W, 2.75A AR-HTS-100M-36 
+http://electronica.bashel.ru/?item=76-67-23
+
+1шт. Драйвер шагового двигателя TB67S109 4A 48V 
+http://electronica.bashel.ru/?item=76-73-06
+
+1шт. Двигатель шаговый Nema 23_8430 
+http://electronica.bashel.ru/?item=77-66-61
+
+1 шт. Муфта Ф8-12
+http://electronica.bashel.ru/?item=77-92-50
+
+4 шт. Винт пазовый с внутренним шестигранником M6 10 мм 
+http://electronica.bashel.ru/?item=76-47-36
+
+4 шт. Сухарь пазовый Паз 8 M6 16мм 
+http://electronica.bashel.ru/?item=77-10-08
+
+2 шт. Кнопка КМ1-1 (КМД1-1)  
+http://electronica.bashel.ru/?item=98-17-12
+
+2 шт. Магнит с зенкованным отверстием под шуруп -179- 25x12x3mm 2x d-3,5 (6кг.) 
+http://electronica.bashel.ru/?item=78-08-91
+
+1 шт. LCD-1602 Keypad Shield
+http://electronica.bashel.ru/?item=78-61-00
